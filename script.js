@@ -1,0 +1,1 @@
+console.log('Vallejo site loaded');
