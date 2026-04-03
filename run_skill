@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+# run_skill: find and execute a skill script by name
+# Usage: run_skill script_name [args...]
+# It searches for a file named script_name under the workspace root ($PWD or explicit)
+# and executes it with any additional arguments.
+
+SCRIPT_NAME="$1"
+shift
+if [[ -z "$SCRIPT_NAME" ]]; then
+  echo "Usage: run_skill script_name [args...]" >&2
+  exit 1
+fi
+
+# Find the script
+FOUND=$(find . -type f -name "$SCRIPT_NAME" 2>/dev/null | head -n 1)
+if [[ -z "$FOUND" ]]; then
+  echo "Could not find script $SCRIPT_NAME in workspace." >&2
+  exit 1
+fi
+
+# Execute the script
+# If it's a Python file, run with python; otherwise try to exec
+if [[ "$FOUND" == *.py ]]; then
+  python "$FOUND" "$@"
+else
+  "$FOUND" "$@"
+fi

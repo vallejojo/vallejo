@@ -1,0 +1,385 @@
+                                                           Vallejo Police Department Public Log
+                                                                  from 03/17/2026 to 03/17/2026
+  Incident #        Date                               Location                           Description     Beat               Disposition
+2603170001     03/17/2026 00:30   BROADWAY ST/TENNESSEE ST               TRAFFIC STOP                      5     CITATION
+
+2603170004     03/17/2026 01:13   400 BLK SANTA CLARA ST                 SECURITY CHECK                    6     GENERAL SERVICE PROVIDED
+
+2603170005     03/17/2026 01:18   800 BLK GATEWAY DR                     WELFARE CHECK                     8     GENERAL SERVICE PROVIDED
+
+2603170006     03/17/2026 01:25   2100 BLK ILLINOIS ST                   EXTRA PATROL                      5     GENERAL SERVICE PROVIDED
+
+2603170007     03/17/2026 01:34   400 BLK FLEMING AVE E                  WELFARE CHECK                     1     UNABLE TO LOCATE
+
+2603170008     03/17/2026 01:41   100 BLK MAYFAIR AV                     SHOTS FIRED                       1     UNABLE TO LOCATE
+
+2603170009     03/17/2026 01:49   GEORGIA ST/SANTA CLARA ST              PHONE CALL                        6     UNABLE TO LOCATE
+
+2603170010     03/17/2026 01:58   400 BLK HAMPSHIRE ST                   WELFARE CHECK                     5     GENERAL SERVICE PROVIDED
+
+2603170011     03/17/2026 02:42   100 BLK BAHIA VISTA CT                 ANNOYING/HARASSING PHONE CALLS    3     GENERAL SERVICE PROVIDED
+
+2603170012     03/17/2026 03:03   400 BLK FAIRGROUNDS DR                 VERBAL FIGHT                      7     GENERAL SERVICE PROVIDED
+
+2603170013     03/17/2026 03:07   1200 BLK MONTEREY ST                   AUDIBLE ALARM                     5     UNFOUNDED
+
+2603170014     03/17/2026 03:53   500 BLK SANTA CLARA ST                 SECURITY CHECK                    6     GENERAL SERVICE PROVIDED
+
+2603170015     03/17/2026 04:30   200 BLK LARISSA LN                     INFORMATIONAL REPORT              4     GENERAL SERVICE PROVIDED
+
+2603170016     03/17/2026 04:35   00 BLK BEVERLY DR                      INFORMATIONAL REPORT              3     GENERAL SERVICE PROVIDED
+
+2603170018     03/17/2026 05:03   2000 BLK SOLANO AV                     AUDIBLE ALARM                     5     UNFOUNDED
+
+2603170020     03/17/2026 05:34   100 BLK HASTINGS AV                    WARRANT SERVICE                   8     REFERRED TO ANOTHER AGENCY
+
+2603170021     03/17/2026 05:39   GEORGIA ST/SONOMA BL                   TRAFFIC STOP                      6     WARNING GIVEN
+
+2603170022     03/17/2026 05:46   CURTOLA PKWY/SONOMA BL                 TRAFFIC STOP                      4     CITATION
+
+2603170023     03/17/2026 07:00   SONOMA BL/SOLANO AV                    TRAFFIC COLLISION / NO DETAILS    4     UNABLE TO LOCATE
+
+2603170024     03/17/2026 07:30   00 BLK FLORIDA ST                      WELFARE CHECK / 911 HANGUP        6     CANCELLED BY REPORTING PARTY
+
+2603170028     03/17/2026 08:04   500 BLK TUOLUMNE ST                    SUSPICIOUS PERSON                 5     GENERAL SERVICE PROVIDED
+
+2603170029     03/17/2026 08:13   2400 BLK BROADWAY ST                   PARKING VIOLATION                 8     REPORT
+
+2603170030     03/17/2026 08:21   400 BLK COLUMBUS PKY                   GRAND THEFT                       1     REPORT
+
+2603170031     03/17/2026 08:27   800 BLK KENTUCKY ST                    ABANDONED VEHICLE                 5     REPORT
+
+2603170034     03/17/2026 08:37   TENNESSEE ST/SACRAMENTO ST             TRAFFIC STOP                      6     WARNING GIVEN
+
+2603170035     03/17/2026 08:37   600 BLK JENNINGS AV                    MENTAL DISTURBED SUBJECT          2     MH TEAM -IHART PRIMARY
+
+2603170038     03/17/2026 08:44   MARIN ST/LOUISIANA ST                  TRAFFIC STOP                      6     WARNING GIVEN
+
+2603170039     03/17/2026 08:46   SACRAMENTO ST/ALABAMA ST               TRAFFIC STOP                      6     WARNING GIVEN
+
+2603170040     03/17/2026 08:53   600 BLK DEL MAR AV                     911 HANGUP                        7     CANCELLED BY REPORTING PARTY
+
+
+
+Total 174 Records                                                      Page 1 of 6                                    Updated @ 3/22/2026 3:20:03 AM
+                                                            Vallejo Police Department Public Log
+                                                                   from 03/17/2026 to 03/17/2026
+  Incident #        Date                              Location                             Description         Beat               Disposition
+2603170041     03/17/2026 08:58   00 BLK MOSSWOOD AV                      BRANDISHING A WEAPON JUST OCCURRED    2     REPORT
+
+2603170042     03/17/2026 09:07   MARIN ST/KENTUCKY ST                    PROSTITUTION COMPLAINT                6     COPIED TO PATROL LOG
+
+2603170043     03/17/2026 09:12   1900 BLK BROADWAY ST                    911 HANGUP                            7     DUPLICATE CALL
+
+2603170044     03/17/2026 09:12   1900 BLK BROADWAY ST                    ASSUALT WITH INJURY                   7     GENERAL SERVICE PROVIDED
+
+2603170046     03/17/2026 09:23   200 BLK RONEY AV                        ABANDONED VEHICLE                     5     GENERAL SERVICE PROVIDED
+
+2603170047     03/17/2026 09:33   500 BLK GLEN COVE RD                    911 HANGUP                            2     UNABLE TO LOCATE
+
+2603170048     03/17/2026 09:34   100 BLK MENLO CT                        VEHICLE THEFT REPORT                  8     REPORT
+
+2603170049     03/17/2026 09:38   400 BLK WALLACE AVE                     ABANDONED VEHICLE                     4     REPORT
+
+2603170050     03/17/2026 09:40   1100 BLK VALLE VISTA AV                 MENTAL DISTURBED SUBJECT              7     GENERAL SERVICE PROVIDED
+
+2603170052     03/17/2026 09:46   3500 BLK SONOMA BL                      SECURITY CHECK                        6     GENERAL SERVICE PROVIDED
+
+2603170053     03/17/2026 09:52   200 BLK CLARK DR                        ABANDONED VEHICLE                     1     GENERAL SERVICE PROVIDED
+
+2603170055     03/17/2026 09:54   MINI DR/CORCORAN AV                     TRAFFIC STOP                          8     CITATION
+
+2603170056     03/17/2026 09:56   1100 BLK NAPA ST                        PETTY THEFT                           5     REPORT
+
+2603170058     03/17/2026 10:06   100 BLK LUNA DR                         MENTAL DISTURBED SUBJECT              3     GENERAL SERVICE PROVIDED
+
+2603170059     03/17/2026 10:09   1200 BLK MAPLE AV                       STALKING REPORT                       1     GENERAL SERVICE PROVIDED
+
+2603170060     03/17/2026 10:10   SPRINGS RD/LINCOLN RD E                 SPECIAL ASSIGNMENT                    2     GENERAL SERVICE PROVIDED
+
+2603170063     03/17/2026 10:11   700 BLK WINCHESTER ST                   ABANDONED VEHICLE                     4     GENERAL SERVICE PROVIDED
+
+2603170064     03/17/2026 10:15   400 BLK ARKANSAS ST                     EXTRA PATROL                          5     COPIED TO PATROL LOG
+
+2603170065     03/17/2026 10:18   300 BLK DARLEY DR                       INFORMATIONAL REPORT                  1     CANCELLED BY DISPATCH
+
+2603170066     03/17/2026 10:20   900 BLK SERENO DR                       PARKING VIOLATION                     7     CITATION
+
+2603170067     03/17/2026 10:20   1600 BLK FAIRGROUNDS DR                 CUSTOMER DISTURBANCE                  8     GENERAL SERVICE PROVIDED
+
+2603170068     03/17/2026 10:22   HILL DR/DANIELS AV                      TRAFFIC STOP                          6     WARNING GIVEN
+
+2603170069     03/17/2026 10:25   MINI DR/FALCON DR                       TRAFFIC STOP                          8     GENERAL SERVICE PROVIDED
+
+2603170070     03/17/2026 10:28   REDWOOD ST/SACRAMENTO ST                TRAFFIC STOP                          6     WARNING GIVEN
+
+2603170072     03/17/2026 10:37   900 BLK ADMIRAL CALLAGHAN LN            AUDIBLE ALARM                         1     CANCELLED BY REPORTING PARTY
+
+2603170073     03/17/2026 10:40   3300 BLK SONOMA BL                      TRAFFIC STOP                          6     CITATION
+
+2603170075     03/17/2026 10:45   600 BLK MINI DR                         TRAFFIC STOP                          8     CITATION
+
+2603170076     03/17/2026 10:47   TENNESSEE ST/HUMBOLDT ST                TRAFFIC STOP                          2     WARNING GIVEN
+
+2603170077     03/17/2026 11:04   CONTRA COSTA ST/GEORGIA ST              TRAFFIC STOP                          5     WARNING GIVEN
+
+
+
+Total 174 Records                                                       Page 2 of 6                                        Updated @ 3/22/2026 3:20:03 AM
+                                                           Vallejo Police Department Public Log
+                                                                    from 03/17/2026 to 03/17/2026
+  Incident #        Date                               Location                            Description                  Beat               Disposition
+2603170078     03/17/2026 11:05   ALABAMA ST/SONOMA BL                     TRAFFIC STOP                                  6     WARNING GIVEN
+
+2603170079     03/17/2026 11:07   MARE ISLAND CSWY/TENNESSEE ST            THROW OBJECTS AT A VEHICLE / JUST OCCURRED    6     ALERT BROADCAST
+
+2603170080     03/17/2026 11:13   MARIN ST/PENNSYLVANIA ST                 ABANDONED VEHICLE                             6     GENERAL SERVICE PROVIDED
+
+2603170081     03/17/2026 11:13   SONOMA BL/GEORGIA ST                     TRAFFIC STOP                                  4     WARNING GIVEN
+
+2603170082     03/17/2026 11:14   100 BLK RAINBOW CT                       911 HANGUP                                    2     UNABLE TO LOCATE
+
+2603170083     03/17/2026 11:21   1100 BLK PORTER ST                       WELFARE CHECK                                 4     MH TEAM -IHART PRIMARY
+
+2603170084     03/17/2026 11:28   700 BLK SPRINGS RD                       STAKEOUT                                      5     CANCELLED BY REPORTING PARTY
+
+2603170085     03/17/2026 11:30   100 BLK GLENVIEW CIR                     WELFARE CHECK                                 1     GENERAL SERVICE PROVIDED
+
+2603170086     03/17/2026 11:36   700 BLK FLORIDA ST                       TRAFFIC STOP                                  5     WARNING GIVEN
+
+2603170087     03/17/2026 11:43   3400 BLK SONOMA BL                       FLAGDOWN BY CITIZEN                           6     GENERAL SERVICE PROVIDED
+
+2603170089     03/17/2026 11:46   1300 BLK MONTEREY ST                     TRAFFIC CONTROL / STRUCTURE FIRE              5     REFERRED TO ANOTHER AGENCY
+
+2603170090     03/17/2026 11:48   1000 BLK CORCORAN AVE                    COMMUNITY ENGAGEMENT DETAIL                   8     GENERAL SERVICE PROVIDED
+
+2603170092     03/17/2026 11:49   1100 BLK PINE ST                         FOLLOW UP                                     4     GENERAL SERVICE PROVIDED
+
+2603170093     03/17/2026 11:50   REDWOOD ST/ADMIRAL CALLAGHAN LN          ASSUALT IN PROGRESS                           1     UNABLE TO LOCATE
+
+2603170094     03/17/2026 11:53   700 BLK MONTEREY ST                      VEHICLE THEFT REPORT                          5     UNABLE TO LOCATE
+
+2603170095     03/17/2026 11:56   1400 BLK N CAMINO ALTO                   WELFARE CHECK / 911 HANGUP                    7     UNABLE TO LOCATE
+
+2603170097     03/17/2026 11:58   100 BLK RAINBOW CT                       VERBAL FIGHT                                  2     CANCELLED BY REPORTING PARTY
+
+2603170098     03/17/2026 11:59   IFLAND WY/SONOMA BL                      AREA CHECK                                    7     DUPLICATE CALL
+
+2603170099     03/17/2026 12:00   TENNESSEE ST/OAKWOOD AV                  TRAFFIC STOP                                  2     REPORT
+
+2603170101     03/17/2026 12:05   ILLINOIS ST/EL DORADO                    SPECIAL ASSIGNMENT                            5     GENERAL SERVICE PROVIDED
+
+2603170102     03/17/2026 12:06   1800 BLK CAPITOL ST                      UNUSUAL CIRCUMSTANCES                         5     GENERAL SERVICE PROVIDED
+
+2603170104     03/17/2026 12:15   300 BLK REIS AV                          INDECENT EXPOSURE IN PROGRESS                 2     UNABLE TO LOCATE
+
+2603170106     03/17/2026 12:17   TUOLUMNE ST/PANORAMA DR                  STOLEN VEHICLE RECOVERY                       7     ARREST
+
+2603170107     03/17/2026 12:18   200 BLK NOTRE DAME DR                    WELFARE CHECK                                 8     UNFOUNDED
+
+2603170109     03/17/2026 12:24   1100 BLK ADMIRAL CALLAGHAN LN            CUSTOMER DISTURBANCE                          1     REFERRED TO ONLINE REPORTING
+
+2603170110     03/17/2026 12:25   100 BLK FRISBIE ST                       ABANDONED VEHICLE                             6     GENERAL SERVICE PROVIDED
+
+2603170111     03/17/2026 12:30   400 BLK HAMPSHIRE ST                     MENTAL DISTURBED SUBJECT                      5     GENERAL SERVICE PROVIDED
+
+2603170112     03/17/2026 12:31   1000 BLK MAGAZINE ST                     TRESPASS IN PROGRESS                          3     CANCELLED BY REPORTING PARTY
+
+2603170113     03/17/2026 12:32   100 BLK BAXTER ST                        ABANDONED VEHICLE                             6     REPORT
+
+
+
+Total 174 Records                                                        Page 3 of 6                                                Updated @ 3/22/2026 3:20:03 AM
+                                                          Vallejo Police Department Public Log
+                                                                 from 03/17/2026 to 03/17/2026
+  Incident #        Date                              Location                           Description    Beat               Disposition
+2603170114     03/17/2026 12:34   300 BLK GEORGIA ST                    SECURITY CHECK                   6     GENERAL SERVICE PROVIDED
+                                                                                                               REFERRED TO ANOTHER AGENCY -
+2603170115     03/17/2026 12:34   900 BLK MONTEREY ST                   INFORMATIONAL REPORT             5
+                                                                                                               HANDLED VIA 1021
+2603170116     03/17/2026 12:37   2100 BLK ASCOT PKY                    911 HANGUP                       2     UNABLE TO LOCATE
+
+2603170117     03/17/2026 12:39   2500 BLK SONOMA BL                    PETTY THEFT                      5     REPORT
+
+2603170118     03/17/2026 12:43   100 BLK EL DORADO ST                  ALARM UNKNOWN                    4     UNFOUNDED
+
+2603170120     03/17/2026 12:51   900 BLK BROADWAY ST                   FAMILY DISTURBANCE               5     UNABLE TO LOCATE
+
+2603170121     03/17/2026 12:59   300 BLK PENNSYLVANIA ST               GRAND THEFT                      6     REPORT
+
+2603170122     03/17/2026 13:03   SONOMA BL/LEWIS BROWN RD              INDECENT EXPOSURE IN PROGRESS    7     UNABLE TO LOCATE
+
+2603170123     03/17/2026 13:16   REDWOOD ST/COUCH ST                   WELFARE CHECK                    5     GENERAL SERVICE PROVIDED
+
+2603170125     03/17/2026 13:22   200 BLK KENTUCKY ST                   THREATS                          6     REPORT
+
+2603170126     03/17/2026 13:35   100 BLK LAKEWOOD AV                   AUDIBLE ALARM                    2     CANCELLED BY REPORTING PARTY
+
+2603170127     03/17/2026 13:36   200 BLK AUTO MALL PKY                 INFORMATIONAL REPORT             1     GENERAL SERVICE PROVIDED
+
+2603170129     03/17/2026 13:57   600 BLK SHERIDAN ST                   911 HANGUP                       4     CANCELLED BY REPORTING PARTY
+
+2603170130     03/17/2026 13:57   100 BLK GLENN ST                      INFORMATIONAL REPORT             5     GENERAL SERVICE PROVIDED
+
+2603170131     03/17/2026 13:57   00 BLK VIEW ST                        ABANDONED VEHICLE                6     GENERAL SERVICE PROVIDED
+
+2603170132     03/17/2026 14:06   2000 BLK BROADWAY ST                  STOLEN VEHICLE RECOVERY          8     REPORT
+
+2603170133     03/17/2026 14:07   1100 BLK BEACH ST                     STOLEN VEHICLE RECOVERY          4     REPORT
+
+2603170134     03/17/2026 14:07   100 BLK SHARI CT                      CORONER'S CASE                   8     REPORT
+
+2603170135     03/17/2026 14:19   100 BLK YOLANO DR                     ABANDONED VEHICLE                7     GENERAL SERVICE PROVIDED
+
+2603170136     03/17/2026 14:22   3400 BLK SONOMA BL                    ASSAULT REPORT                   6     GENERAL SERVICE PROVIDED
+
+2603170137     03/17/2026 14:30   1800 BLK LOUISIANA ST                 TRESPASS IN PROGRESS             5     GENERAL SERVICE PROVIDED
+
+2603170138     03/17/2026 14:33   1100 BLK SONOMA BL                    CUSTOMER DISTURBANCE             4     GENERAL SERVICE PROVIDED
+
+2603170140     03/17/2026 14:34   1600 BLK TENNESSEE ST                 911 HANGUP                       5     UNABLE TO LOCATE
+
+2603170141     03/17/2026 14:36   3500 BLK SONOMA BL                    SUSP CIRCUMSTANCES               6     GENERAL SERVICE PROVIDED
+
+2603170142     03/17/2026 14:37   1300 BLK TENNESSEE ST                 SUSPICIOUS PERSON                5     GENERAL SERVICE PROVIDED
+
+2603170143     03/17/2026 14:37   1100 BLK BEACH ST                     CITIZEN ASSIST                   4     GENERAL SERVICE PROVIDED
+
+2603170145     03/17/2026 14:50   100 BLK CARNATION CIR                 ABANDONED VEHICLE                8     GENERAL SERVICE PROVIDED
+
+2603170149     03/17/2026 15:00   300 BLK OHIO ST                       VEHICLE THEFT REPORT             6     GENERAL SERVICE PROVIDED
+
+2603170150     03/17/2026 15:03   300 BLK FAIRGROUNDS DR                CUSTOMER DISTURBANCE             7     UNABLE TO LOCATE
+
+
+
+Total 174 Records                                                     Page 4 of 6                                  Updated @ 3/22/2026 3:20:03 AM
+                                                           Vallejo Police Department Public Log
+                                                                  from 03/17/2026 to 03/17/2026
+  Incident #        Date                              Location                            Description       Beat               Disposition
+2603170151     03/17/2026 15:07   GEORGIA ST/MONTEREY ST                 TRAFFIC STOP                        4     WARNING GIVEN
+
+2603170152     03/17/2026 15:08   100 BLK FARRAGUT AV                    WELFARE CHECK                       6     MH TEAM -IHART PRIMARY
+
+2603170154     03/17/2026 15:12   100 BLK RIVER PINES WY                 ABANDONED VEHICLE                   8     GENERAL SERVICE PROVIDED
+
+2603170157     03/17/2026 15:23   100 BLK MARTIN ST                      ABANDONED VEHICLE                   8     GENERAL SERVICE PROVIDED
+
+2603170159     03/17/2026 15:37   100 BLK AMADOR ST                      RETURNED MISSING PERSON             4     REPORT
+
+2603170162     03/17/2026 15:49   1000 BLK ALABAMA ST                    911 HANGUP                          5     UNABLE TO LOCATE
+
+2603170163     03/17/2026 15:51   100 BLK CRAVEN ST                      VERBAL FIGHT                        6     CANCELLED BY REPORTING PARTY
+
+2603170164     03/17/2026 15:53   300 BLK VIRGINIA ST                    911 HANGUP                          6     CANCELLED BY REPORTING PARTY
+
+2603170165     03/17/2026 15:55   1000 BLK ALABAMA ST                    TRESPASS IN PROGRESS                5     GENERAL SERVICE PROVIDED
+
+2603170166     03/17/2026 16:21   WILSON AV/SIMS AV                      SUSPICIOUS PERSON                   6     UNABLE TO LOCATE
+
+2603170169     03/17/2026 16:29   00 BLK PARKHAVEN CT                    CORONER'S CASE                      1     REPORT
+
+2603170171     03/17/2026 16:45   600 BLK MAGAZINE ST                    SUSP CIRCUMSTANCES                  4     UNFOUNDED
+
+2603170175     03/17/2026 17:04   100 BLK ELNA DR                        AUDIBLE ALARM                       1     UNFOUNDED
+
+2603170183     03/17/2026 17:25   3500 BLK SONOMA BL                     TRAFFIC CONTROL / STRUCTURE FIRE    6     CANCELLED BY DISPATCH
+
+2603170184     03/17/2026 17:26   1000 BLK SOLANO AV                     INDECENT EXPOSURE IN PROGRESS       4     GENERAL SERVICE PROVIDED
+
+2603170185     03/17/2026 17:30   100 BLK HILBORN ST                     911 HANGUP                          6     CANCELLED BY REPORTING PARTY
+
+2603170187     03/17/2026 17:44   300 BLK SACRAMENTO ST                  PETTY THEFT                         6     UNABLE TO LOCATE
+
+2603170189     03/17/2026 17:52   500 BLK SANTA CLARA ST                 AUDIBLE ALARM                       6     GENERAL SERVICE PROVIDED
+
+2603170191     03/17/2026 17:58   500 BLK SANTA CLARA ST                 TRAFFIC CONTROL / STRUCTURE FIRE    6     GENERAL SERVICE PROVIDED
+
+2603170192     03/17/2026 18:07   400 BLK PENNSYLVANIA ST                VERBAL FIGHT                        4     UNFOUNDED
+
+2603170193     03/17/2026 18:23   TENNESSEE ST/MARIN ST                  FOUND CHILD                         6     GENERAL SERVICE PROVIDED
+
+2603170194     03/17/2026 18:26   800 BLK WATERFRONT AV                  911 HANGUP                          6     UNABLE TO LOCATE
+
+2603170196     03/17/2026 18:42   500 BLK SANTA CLARA ST                 AREA CHECK                          6     GENERAL SERVICE PROVIDED
+
+2603170198     03/17/2026 18:48   100 BLK JANICE ST                      SEND OFFICER COVER                  8     UNFOUNDED
+
+2603170199     03/17/2026 19:00   100 BLK LIVE OAK CT                    ANNOYING/HARASSING PHONE CALLS      2     UNABLE TO LOCATE
+
+2603170200     03/17/2026 19:17   2000 BLK TENNESSEE ST                  VEHICLE THEFT REPORT                5     REPORT
+
+2603170201     03/17/2026 19:20   00 BLK BRIGHTON DR                     911 HANGUP                          2     UNABLE TO LOCATE
+
+2603170202     03/17/2026 19:21   200 BLK INVERNESS DR                   911 HANGUP                          7     UNABLE TO LOCATE
+
+2603170203     03/17/2026 19:24   400 BLK SANTA CLARA ST                 AUDIBLE ALARM                       6     UNFOUNDED
+
+
+
+Total 174 Records                                                      Page 5 of 6                                      Updated @ 3/22/2026 3:20:03 AM
+                                                           Vallejo Police Department Public Log
+                                                                  from 03/17/2026 to 03/17/2026
+  Incident #        Date                               Location                          Description         Beat               Disposition
+2603170204     03/17/2026 19:25   200 BLK MAINE ST                       SUSP CIRCUMSTANCES                   6     GENERAL SERVICE PROVIDED
+
+2603170205     03/17/2026 19:26   500 BLK OREGON ST                      WELFARE CHECK                        5     ALERT BROADCAST
+
+2603170206     03/17/2026 19:28   400 BLK ARKANSAS ST                    SUSP CIRCUMSTANCES                   5     GENERAL SERVICE PROVIDED
+
+2603170208     03/17/2026 19:45   SONOMA BL/GEORGIA ST                   TRAFFIC STOP                         4     WARNING GIVEN
+                                                                         SHOOTING INTO UNOCCUPIED DWELLING
+2603170209     03/17/2026 19:53   00 BLK ROTARY WY                                                            1     ARREST
+                                                                         /BUILDING
+2603170210     03/17/2026 19:55   1300 BLK MONTEREY ST                   SUSPICIOUS PERSON                    5     ALERT BROADCAST
+
+2603170211     03/17/2026 20:08   900 BLK BRENTWOOD AV                   SUSP CIRCUMSTANCES                   2     UNABLE TO LOCATE
+
+2603170212     03/17/2026 20:17   100 BLK CARNIVAL CT                    AUDIBLE ALARM                        8     UNABLE TO LOCATE
+
+2603170213     03/17/2026 20:20   800 BLK LA CANYADA DR                  EXTRA PATROL                         3     COPIED TO PATROL LOG
+
+2603170214     03/17/2026 20:23   1900 BLK BROADWAY ST                   DOMESTIC VIOLENCE JUST OCCURRED      7     UNABLE TO LOCATE
+
+2603170215     03/17/2026 20:52   YOLO AV/ARKANSAS ST                    AREA CHECK                           6     GENERAL SERVICE PROVIDED
+
+2603170216     03/17/2026 21:16   TENNESSEE ST/OV 80                     TRAFFIC COLLISION / NO DETAILS       2     UNABLE TO LOCATE
+
+2603170217     03/17/2026 21:17   2000 BLK OHIO ST                       NOISE COMPLAINT                      5     COPIED TO PATROL LOG
+
+2603170218     03/17/2026 21:20   MARIPOSA ST/SOLANO AV                  TRAFFIC COLLISION / NO DETAILS       5     UNABLE TO LOCATE
+
+2603170219     03/17/2026 21:34   MARIN ST/KENTUCKY ST                   PROSTITUTION COMPLAINT               6     COPIED TO PATROL LOG
+
+2603170220     03/17/2026 21:47   5200 BLK SONOMA BL                     AUDIBLE ALARM                        8     UNFOUNDED
+
+2603170221     03/17/2026 21:58   300 BLK TUOLUMNE ST                    MISUSE OF 911                        5     GENERAL SERVICE PROVIDED
+
+2603170222     03/17/2026 22:08   SACRAMENTO ST/TENNESSEE ST             RECKLESS DRIVER                      6     GENERAL SERVICE PROVIDED
+
+2603170223     03/17/2026 22:13   100 BLK AMADOR ST                      TRANSPORT ARRESTED PERSON            4     GENERAL SERVICE PROVIDED
+
+2603170224     03/17/2026 22:16   SACRAMENTO ST/TENNESSEE ST             SUSP CIRCUMSTANCES                   6     GENERAL SERVICE PROVIDED
+
+2603170227     03/17/2026 22:32   2500 BLK TENNESSEE ST                  SUSP CIRCUMSTANCES                   1     CANCELLED BY REPORTING PARTY
+
+2603170229     03/17/2026 22:43   200 BLK MARE ISLAND WY                 WELFARE CHECK                        6     GENERAL SERVICE PROVIDED
+
+2603170230     03/17/2026 22:50   1500 BLK FLORIDA ST                    SUSP CIRCUMSTANCES                   5     ALERT BROADCAST
+
+2603170231     03/17/2026 23:01   100 BLK YORKSHIRE CT                   FAMILY DISTURBANCE                   2     GENERAL SERVICE PROVIDED
+
+2603170233     03/17/2026 23:16   00 BLK WINTERS ST                      911 HANGUP                           7     UNABLE TO LOCATE
+
+2603170234     03/17/2026 23:19   200 BLK LARISSA LN                     911 HANGUP                           4     UNABLE TO LOCATE
+
+2603170235     03/17/2026 23:24   1800 BLK SPRINGS RD                    MENTAL DISTURBED SUBJECT             2     ALERT BROADCAST
+
+2603170236     03/17/2026 23:34   800 BLK 5TH ST                         RAVEN ALERT SHOTS FIRED              4     UNABLE TO LOCATE
+
+2603170237     03/17/2026 23:47   STEFFAN ST/GEORGIA ST                  TRAFFIC STOP                         2     WARNING GIVEN
+
+
+
+Total 174 Records                                                      Page 6 of 6                                      Updated @ 3/22/2026 3:20:03 AM
+

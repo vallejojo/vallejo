@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Wrapper to invoke the VPD log grab script with easier syntax
+# Usage: vpd_log_grab YYYY-MM-DD [output_dir]
+
+SCRIPT_DIR=$(dirname "$0")/skills/vpd-log-grab/scripts
+python3 "$SCRIPT_DIR/vpd_log_grab.py" "$@"
